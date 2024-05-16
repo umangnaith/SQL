@@ -1,2 +1,2 @@
 # SQL
-This is the project i made while learining SQL.
+This is the project I made while learining SQL.
